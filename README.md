@@ -1,5 +1,6 @@
 # MSI-Z170A-TOMAHAWK-OC-EFI
 这是一个基于opencore 1.0.2 的EFI
+要使用这个配置，请自行修改sn，一定要修改
 
 #系统配置
 
